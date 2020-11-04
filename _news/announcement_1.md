@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-11-03 12:00:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+[Code](https://github.com/niopeng/dciknn_cuda) for DCI CUDA with PyTorch interface is available  

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: HyperRIM
+description: a one-to-many generative model that achieves 16x hyper-resolution and image decompression 
+img: /assets/img/hrim.gif
 importance: 1
+redirect: https://niopeng.github.io/HyperRIM/
 ---
 
 Every project has a beautiful feature showcase page.
