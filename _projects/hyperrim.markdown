@@ -3,7 +3,7 @@ layout: page
 title: HyperRIM
 description: a one-to-many generative model that achieves 16x hyper-resolution and image decompression 
 img: /assets/img/hrim.gif
-importance: 1
+importance: 2
 redirect: https://niopeng.github.io/HyperRIM/
 ---
 
